@@ -2,5 +2,5 @@
 This is paper is for AJBA special issue, which it is about ecological variable and primate carcass. 
 
 This contains datasets and R codes used for the data analyses.
-Any question, please ask me: jacintomathe@gmail.com
+Any questions, do get in touch: jacintomathe@gmail.com
 
