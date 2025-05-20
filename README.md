@@ -1,4 +1,4 @@
-# Mathe_paper_zero
+# Mathe_paper four
 This is paper is for AJBA special issue, which it is about ecological variable and primate carcass. 
 
 This contains datasets and R codes used for the data analyses.
